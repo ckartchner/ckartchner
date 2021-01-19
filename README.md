@@ -3,7 +3,7 @@
 - :computer: Full-Stack Developer - Front-end, back-end, databases, firmware, hardware, it's all fun
 - :telescope: Explorer - I love software development because it affords me seemingly limitless opportunities to ask questions and learn new things
 - :rocket: Open source contributor - Currently looking to get more involved in open source software development focused on understanding how a diverse range of projects are getting things done
-- :school: Computer science graduate - Earned a master's in computer science from Georgia Tech
+- :school: Computer science graduate - Master's in Computer Science from Georgia Tech
 - :tophat: Professional developer - If you want to know more about the professional side of my life, checkout [my LinkedIn page](https://www.linkedin.com/in/carlin-kartchner/)
 
 
