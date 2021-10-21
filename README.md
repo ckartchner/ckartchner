@@ -1,7 +1,7 @@
 ### Hi, you can call me Carlin :tada:
 ### I'm a ...  
 - :computer: Full-Stack Developer - Front-end, back-end, databases, firmware, hardware, it's all fun
-- :telescope: Explorer - I like asking questions and discovering new things. Sometimes this involves sitting in front of a computer, but for me I'm often exploring while riiding a bike, mapping a cave, or running somewhere new.
+- :telescope: Explorer - I like asking questions and discovering new things. Sometimes this involves sitting in front of a computer, but I'm often found exploring while riding a bike, mapping a cave, or running somewhere new.
 - :school: Computer science graduate - Completed Master's in Computer Science from Georgia Tech where I focused on Machine Learning.
 - :tophat: Professional developer - If you want to know more about the professional side of my life, checkout [my LinkedIn page](https://www.linkedin.com/in/carlin-kartchner/)
 
